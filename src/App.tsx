@@ -3,7 +3,6 @@ import DataStreamer, { ServerRespond } from './DataStreamer';
 import Graph from './Graph';
 import './App.css';
 
-
 /**
  * State declaration for <App />
  */
