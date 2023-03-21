@@ -3,7 +3,6 @@ import DataStreamer, { ServerRespond } from './DataStreamer';
 import Graph from './Graph';
 import './App.css';
 
-buttonClicked = 0
 
 /**
  * State declaration for <App />
