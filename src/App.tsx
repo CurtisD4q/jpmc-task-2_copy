@@ -72,7 +72,6 @@ class App extends Component<{}, IState> {
             // to keep requesting the data every 100ms until the app is closed
             // or the server does not return anymore data.
             onClick={() => {this.getDataFromServer()}}>
-            buttonClicked = 1
             Start Streaming Data
           </button>
           <div className="Graph">
